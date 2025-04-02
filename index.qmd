@@ -1,0 +1,31 @@
+---
+title: "Kathryn Luk's Website"
+---
+
+Welcome to my test website! I am currently playing around with learning Quarto to create my own personal website.
+
+------------------------------------------------------------------------
+
+::: panel-center
+Kathryn T. Luk, LGSW, MSW (she/her) is a doctoral student at the University of Pittsburgh School of Social Work. She received an MSW from the University of Pittsburgh’s joint MSW/PhD program and a BS in Neuroscience with a minor in Public Health from the University of Minnesota College of Biological Sciences. Her scholarship employs trauma-informed and recovery-oriented lenses to examine service user outcomes associated with experiencing compulsion and coercion within the mental healthcare system. Her dissertation, *Interrupting Iatrogenics: Exploring Factors Associated with Mobile Crisis Workers' Decisions to Deploy Coercive Interventions*, will use random forest analysis, mixture modeling, and structural equation modeling to analyze characteristics of mobile crisis workers who are more likely to deploy coercive interventions when responding to a behavioral health crisis.
+
+Informed by her personal and professional experiences working with victim/survivors of gender-based violence accessing the mental healthcare system, Kathryn’s long-term goals are to continually evaluate and implemented the integrating trauma-informed care and recovery-oriented services into behavioral health systems.
+:::
+
+::: panel-sidebar
+![](images/KatHeadshotWeb-4.jpg)
+
+```{=html}
+<!<!DOCTYPE html>
+<html>
+<body>
+  <div>
+    <p> <a href="mailto:kal244@pitt.edu">kal244@pitt.edu</a></p>
+  </div>
+  <div>
+    <p> <a href="C:\Users\Kathryn Luk\OneDrive\Documents\Employment\Career\Resumes and CVs\KLuk CV - 03.10.25.pdf">View CV</a></p>
+  </div>
+</body>
+</html>
+```
+:::

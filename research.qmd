@@ -1,0 +1,50 @@
+---
+title: "Research"
+---
+
+## Current Research Activities
+
+-   **Independent Evaluation of New York State's Assisted Outpatient Treatment (AOT) Program** *(In collaboration with [Human Services Research Institute](https://www.hsri.org/projects/new-york-state-assisted-outpatient-treatment-aot-evaluation-infographic/))*
+
+    *Faculty Mentor*: [Dr. Nev Jones](https://www.socialwork.pitt.edu/people/nev-jones), MA, MA
+
+    *Project Summary*: This evaluation examines the current implementation of AOT programs across New York State and explores the outcomes associated with being placed under an AOT order
+
+    -    Integrated participatory methods to ensure the evaluation study design centered the lived experiences of people under AOT orders
+    -   Designed recruitment materials for stakeholder interviews and focus groups
+    -   Revised semi-structured interview and focus group guides for AOT stakeholder groups
+    -   Conducted semi-structured interview with people under AOT orders and their family members
+    -   Constructed a county-level database from secondary sources for statistical analysis
+
+-   **Mobile Crisis Teams: Testing the Potential for Perpetuating Disparities**
+
+    *Faculty Mentor*: [Dr. Leah Jacobs](https://www.socialwork.pitt.edu/people/leah-jacobs), MSW, MA
+
+    *Project Summary*: This study was a 2x2 factorial vignette survey study that assessed the impact of service user race and prior criminal-legal involvement (PCLI) on mobile crisis workers' decisions to deploy coercive interventions
+
+    -   Conducted logistic mixed effects modeling analysis to assess the separate and cumulative effects of service user race and prior criminal-legal involvement on deploying coercive interventions
+    -   Created data visualizations using ggplot2 to present key findings from statistical analyses, enhancing data interpretation and communication
+    -   Performed data cleaning and management, ensuring accuracy and completeness, and conducted basic descriptive statistical analyses
+    -   Managed and processed honorariums for research study participation
+
+<!-- -->
+
+-   **Resilience in Communities After Stress and Trauma (ReCAST)**
+
+    *Faculty Mentor*: [Dr. Leah Jacobs](https://www.socialwork.pitt.edu/people/leah-jacobs), MSW, MA
+
+    *Project Summary*: This study is a cluster-randomized controlled trial in twenty neighborhoods throughout Allegheny County, Pennsylvania that evaluates the Community Resiliency Collective Efficacy Intervention, with the goal of increasing community resilience and reducing community violence
+
+    -   Developed a Quarto template for accessible, neighborhood-specific reports, streamlining data presentation and accessibility for community partners and additional stakeholders
+
+    -   Supported research dissemination by preparing visual and written summaries for community stakeholders and policy makers
+
+    -   Conducted data quality checks and analyses, ensuring integrity and reliability of collected data
+
+## Recent Publications
+
+**Luk, K.T.** & Jones, N. (2024). National seclusion and restraint trends within child residential treatment facilities: 2010-2020 in review. *Psychiatric Quarterly, 95*(4), 681-695. doi: [10.1007/s11126-024-10098-3](doi.org/10.1007/s11126-024-10098-3)
+
+Labrum, T., **Luk, K.**, Newhill, C.E., & Solomon, P. (2024). Relationship quality among persons with serious mental illness and their relatives: Rates and correlates. *Psychiatric Quarterly, 95*(2), 253-269. doi: [10.1007/s11126-024-10069-8](doi.org/10.1007/s11126-024-10069-8)
+
+Luk, K.T. & Newhill, C.E. (2023). Hurt Instead of Help: BIPOC clients and sanctuary harm during inpatient care. Journal of Ethnic and Cultural Diversity in Social Work. (Under Review)

@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kathryn Luk"
+  navbar:
+    background: primary
+    right:
+      - text: "Home"
+        href: index.qmd
+        icon: "house"
+      - text: "Research"
+        href: research.qmd
+        icon: "clipboard-data"
+      - text: "About"
+        href: about.qmd
+        icon: "search-heart"
+      
+format:
+  html:
+    theme:
+      - lumen
+    css: styles.css
+    toc: true
+
+editor: visual
