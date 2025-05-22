@@ -23,7 +23,7 @@ Informed by her personal and professional experiences working with victim/surviv
     <p> <a href="mailto:kal244@pitt.edu">kal244@pitt.edu</a></p>
   </div>
   <div>
-    <p> <a href="C:\Users\Kathryn Luk\OneDrive\Documents\Employment\Career\Resumes and CVs\KLuk CV - 03.10.25.pdf">View CV</a></p>
+    <p> <a href="C:\Users\Kathryn Luk\Documents\Personal\Website\website\docs\KLuk CV - 03.10.25.pdf">View CV</a></p>
   </div>
 </body>
 </html>

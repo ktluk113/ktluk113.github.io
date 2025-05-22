@@ -25,3 +25,18 @@ format:
     toc: true
 
 editor: visual
+
+jobs:
+  deploy:
+    permissions:
+    pages: write
+    id-token: write
+    
+  environment:
+  name: github-pages
+  url: ${{https://ktluk113.github.io/}}
+  
+  runs-on: ubunto-latest
+  steps:
+  - name: Deploy to GitHub Pages
+  - id: deployment

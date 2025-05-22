@@ -10,7 +10,7 @@ title: "Research"
 
     *Project Summary*: This evaluation examines the current implementation of AOT programs across New York State and explores the outcomes associated with being placed under an AOT order
 
-    -    Integrated participatory methods to ensure the evaluation study design centered the lived experiences of people under AOT orders
+    -   Integrated participatory methods to ensure the evaluation study design centered the lived experiences of people under AOT orders
     -   Designed recruitment materials for stakeholder interviews and focus groups
     -   Revised semi-structured interview and focus group guides for AOT stakeholder groups
     -   Conducted semi-structured interview with people under AOT orders and their family members

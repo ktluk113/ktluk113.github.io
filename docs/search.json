@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kathryn Luk’s Website",
-    "section": "",
-    "text": "Welcome to my test website! I am currently playing around with learning Quarto to create my own personal website.\n\n\n\n\n\nKathryn T. Luk, LGSW, MSW (she/her) is a doctoral student at the University of Pittsburgh School of Social Work. She received an MSW from the University of Pittsburgh’s joint MSW/PhD program and a BS in Neuroscience with a minor in Public Health from the University of Minnesota College of Biological Sciences. Her scholarship employs trauma-informed and recovery-oriented lenses to examine service user outcomes associated with experiencing compulsion and coercion within the mental healthcare system. Her dissertation, Interrupting Iatrogenics: Exploring Factors Associated with Mobile Crisis Workers’ Decisions to Deploy Coercive Interventions, will use random forest analysis, mixture modeling, and structural equation modeling to analyze characteristics of mobile crisis workers who are more likely to deploy coercive interventions when responding to a behavioral health crisis.\nInformed by her personal and professional experiences working with victim/survivors of gender-based violence accessing the mental healthcare system, Kathryn’s long-term goals are to continually evaluate and implemented the integrating trauma-informed care and recovery-oriented services into behavioral health systems.\n\n\n\n\n\n\n\n\n  \n     kal244@pitt.edu\n  \n  \n     View CV"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -32,6 +25,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Kathryn grew up in Stillwater, MN and attended the University of Minnesota Twin Cities College of Biological Sciences in Minneapolis, MN for Neuroscience. After realizing that pursuing medical school was not for her, she worked in domestic violence/sexual assault/sex trafficking advocacy for five years before returning to school to pursue her joint MSW/PhD in Social Work from the University of Pittsburgh in 2020.\nPresently, Kathryn lives in St. Paul, MNwith her corgi-Rottweiler rescue pup, Jack Jack. When not working on her dissertation she enjoys dancing, collecting stationery, growing houseplants, drinking semi-fancy teas, and playing board games."
+    "text": "Kathryn grew up in Stillwater, MN and attended the University of Minnesota Twin Cities College of Biological Sciences in Minneapolis, MN for Neuroscience. After realizing that pursuing medical school was not for her, she worked in domestic violence/sexual assault/sex trafficking advocacy for five years before returning to school to pursue her joint MSW/PhD in Social Work from the University of Pittsburgh in 2020.\nPresently, Kathryn lives in St. Paul, MN with her corgi-Rottweiler rescue pup, Jack Jack. When not working on her dissertation she enjoys dancing, collecting stationery, growing houseplants, drinking semi-fancy teas, and playing board games."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kathryn Luk’s Website",
+    "section": "",
+    "text": "Welcome to my test website! I am currently playing around with learning Quarto to create my own personal website.\n\n\n\n\n\nKathryn T. Luk, LGSW, MSW (she/her) is a doctoral student at the University of Pittsburgh School of Social Work. She received an MSW from the University of Pittsburgh’s joint MSW/PhD program and a BS in Neuroscience with a minor in Public Health from the University of Minnesota College of Biological Sciences. Her scholarship employs trauma-informed and recovery-oriented lenses to examine service user outcomes associated with experiencing compulsion and coercion within the mental healthcare system. Her dissertation, Interrupting Iatrogenics: Exploring Factors Associated with Mobile Crisis Workers’ Decisions to Deploy Coercive Interventions, will use random forest analysis, mixture modeling, and structural equation modeling to analyze characteristics of mobile crisis workers who are more likely to deploy coercive interventions when responding to a behavioral health crisis.\nInformed by her personal and professional experiences working with victim/survivors of gender-based violence accessing the mental healthcare system, Kathryn’s long-term goals are to continually evaluate and implemented the integrating trauma-informed care and recovery-oriented services into behavioral health systems.\n\n\n\n\n\n\n\n\n  \n     kal244@pitt.edu\n  \n  \n     View CV"
   }
 ]
